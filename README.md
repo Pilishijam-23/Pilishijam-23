@@ -216,13 +216,6 @@
   
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="150" alt="Handshake">
-</div>](https://img.shields.io/badge/Portfolio-00D084?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D084)](https://TU_PORTFOLIO.com)
-  [![Email](https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00D084)](mailto:pilishijam@example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-00D084?style=for-the-badge&logo=github&logoColor=white&labelColor=00D084)](https://github.com/Pilishijam-23)
-  
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="280"/>
@@ -259,19 +252,7 @@
   
 > *"El aprendizaje nunca agota la mente. Cada línea de código que escribes hoy es una inversión en el desarrollador que serás mañana. 🌱"*
 
-<img src="https://readme-quotes-api.herokuapp.com/quote?theme=dark&animation=grow_out_in&color=00D084&font=Redressed" alt="Random Dev Quote"/>
-
 <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300"/>
-
-</div>
-
----
-
-## 📊 Contribuciones de Código
-
-<div align="center">
-  
-![Snake Animation](https://github.com/Pilishijam-23/Pilishijam-23/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -285,7 +266,6 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,12,22&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
   <h2>✨ "Construyendo el futuro, un commit a la vez" ✨</h2>
@@ -293,3 +273,5 @@
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=4000&pause=2000&color=00D084&center=true&vCenter=true&width=500&lines=💚+Gracias+por+visitar+mi+perfil+💚;🚀+Happy+Coding!+🚀" alt="Thanks"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,12,22&height=120&section=footer&animation=twinkling"/>
