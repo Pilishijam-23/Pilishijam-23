@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2500&pause=1200&color=00D084&center=true&vCenter=true&width=900&lines=¡Hola!+Soy+José_Luis+👋;Desarrollador+Junior+en+Crecimiento+🌱;Transformando+Pasión+en+Código+💚;Cada+Día+es+una+Nueva+Oportunidad+✨;Construyendo+el+Futuro+con+Código+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=2500&pause=1200&color=00D084&center=true&vCenter=true&width=900&lines=¡Hola!+Soy+José+Luis+👋;Desarrollador+Junior+en+Crecimiento+🌱;Transformando+Pasión+en+Código+💚;Cada+Día+es+una+Nueva+Oportunidad+✨;Construyendo+el+Futuro+con+Código+🚀)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -85,7 +85,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="100">
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 📊 Mi Progreso en GitHub
 
@@ -102,13 +104,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pilishijam-23&custom_title=Mi%20Actividad%20de%20Desarrollo&bg_color=0d1520&color=00D084&line=00D084&point=ffffff&area_color=00D084&title_color=ffffff&area=true&hide_border=true&radius=10" width="100%"/>
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🌟 Proyectos Destacados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pilishijam-23&repo=Protocolos-TCP-IP&theme=github_dark_green&hide_border=true&bg_color=0d1520&title_color=00D084&text_color=ffffff&icon_color=00D084" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pilishijam-23&repo=principiosSOLID&theme=github_dark_green&hide_border=true&bg_color=0d1520&title_color=00D084&text_color=ffffff&icon_color=00D084" />
+  <a href="https://github.com/Pilishijam-23/Protocolos-TCP-IP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pilishijam-23&repo=Protocolos-TCP-IP&theme=github_dark_green&hide_border=true&bg_color=0d1520&title_color=00D084&text_color=ffffff&icon_color=00D084" />
+  </a>
+  <a href="https://github.com/Pilishijam-23/principiosSOLID">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pilishijam-23&repo=principiosSOLID&theme=github_dark_green&hide_border=true&bg_color=0d1520&title_color=00D084&text_color=ffffff&icon_color=00D084" />
+  </a>
 </div>
 
 <div align="center">
@@ -117,7 +125,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" height="100" style="margin: 0 20px;">
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🗺️ Roadmap de Desarrollo
 
@@ -170,13 +180,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200" alt="Trophy">
 </div>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 💭 Filosofía de Desarrollo
 
 <div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&color=00D084&font=Redressed)](https://github.com/piyushsuthar/github-readme-quotes)
+
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 </div>
 
@@ -185,10 +197,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="50"/><br><strong>Growth Mindset</strong></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216113649-e5dd4a42-3e51-44a7-a629-7751d319e38d.png" width="50"/><br><strong>Clean Code</strong></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216113853-7ba7c45b-e959-4c49-8506-cd10e7103d61.png" width="50"/><br><strong>Continuous Learning</strong></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/74038190/216115962-04c896a4-7d6b-4c94-a77e-7c718c04a791.png" width="50"/><br><strong>Collaboration</strong></td>
+      <td align="center">🧠<br><strong>Growth Mindset</strong></td>
+      <td align="center">✨<br><strong>Clean Code</strong></td>
+      <td align="center">📚<br><strong>Continuous Learning</strong></td>
+      <td align="center">🤝<br><strong>Collaboration</strong></td>
     </tr>
     <tr>
       <td align="center"><em>Cada desafío<br>es crecimiento</em></td>
@@ -200,22 +212,23 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+  
+### 🔥 Mis Principios de Desarrollo
+
+**💡 Simplicidad** • **🎯 Funcionalidad** • **🚀 Escalabilidad**
+
 </div>
 
 ## 🤝 Conectemos y Crezcamos Juntos
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/TU_LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00D084?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D084)](https://TU_PORTFOLIO.com)
-  [![Email](https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00D084)](mailto:pilishijam@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/tu-linkedin-aqui)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00D084?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00D084)](https://tu-portfolio.com)
+  [![Email](https://img.shields.io/badge/Email-00D084?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00D084)](mailto:tu-email@example.com)
   [![GitHub](https://img.shields.io/badge/GitHub-00D084?style=for-the-badge&logo=github&logoColor=white&labelColor=00D084)](https://github.com/Pilishijam-23)
   
 </div>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="280"/>
@@ -265,7 +278,6 @@
 [![Pilishijam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pilishijam23&theme=dark&bg_color=0d1520&title_color=00D084&text_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
 
 <div align="center">
   <h2>✨ "Construyendo el futuro, un commit a la vez" ✨</h2>
